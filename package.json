@@ -1,0 +1,22 @@
+{
+  "name": "stej-foo",
+  "version": "1.0.0",
+  "description": "My first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stejsoftware/stej-foo.git"
+  },
+  "keywords": [
+    "foo"
+  ],
+  "author": "Jonathan Meyer <jon@stej.com> (http://stej.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stejsoftware/stej-foo/issues"
+  },
+  "homepage": "https://github.com/stejsoftware/stej-foo#readme"
+}

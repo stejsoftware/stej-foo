@@ -3,7 +3,7 @@
 
 ## Install
 ```
-$ npm --save i stej-foo
+$ npm install stej-foo
 ```
 
 ## Usage
